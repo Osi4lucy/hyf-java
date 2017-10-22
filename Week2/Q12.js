@@ -1,0 +1,1 @@
+var myEmptyObject = {}; // empty pbject
